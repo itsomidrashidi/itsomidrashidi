@@ -13,7 +13,7 @@
 - 🛠️ I handle everything: server provisioning → backend → frontend → deployment
 - 📊 Highlights: scaled a WooCommerce store from 100 to 12,000 SKUs · achieved PageSpeed scores of 92–100 · built a crawler indexing 100K–200K links
 - 🌍 Actively seeking international opportunities — targeting **Mauritius ICT sector**
-- 📄 **[Download Resume / CV](https://github.com/itsomidrashidi/itsomidrashidi/raw/main/resume/Omid-CV.html)**
+- 📄 **[Download Resume / CV](https://github.com/itsomidrashidi/itsomidrashidi/raw/main/resume/Omid-Rashidifam-Full-Stack-Web-Developer.pdf)**
 - 📫 Reach me: **omidrashidifam@gmail.com**
 
 <br clear="right"/>
